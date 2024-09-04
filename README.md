@@ -1,6 +1,8 @@
 # ci
 Dashboard, profile, and search
 
+# Note - Included database in the database folder
+
 
 # Add features:- 
 
