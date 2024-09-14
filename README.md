@@ -10,7 +10,7 @@
 + view admin profile and update
 + Added search for any image/video using Pixabay API
 
-# Logi details:-
+# Login details:-
 
 + Email--admin@gmail.com
 + Password--admin
